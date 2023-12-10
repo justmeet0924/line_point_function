@@ -1,4 +1,4 @@
-//when given points as dictionary,draw line between thse points.
+//when given points as dictionary,draw lines between these points.
 
 function line_points(dict){
 	stroke(250,0,0);
