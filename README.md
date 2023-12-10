@@ -1,1 +1,1 @@
-# line_points_function
+# line_point_function
